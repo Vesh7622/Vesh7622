@@ -20,7 +20,8 @@ Hi there! I'm Nirvesh Bhagirath, a dedicated and enthusiastic data science stude
 - LinkedIn: [Nirvesh Bhagirath](https://www.linkedin.com/in/your-profile)
 
 ## 📈 GitHub Stats
-![Nirvesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=nirveshbhagirath&show_icons=true&theme=radical)
+![Nirvesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+
 
 ## 💬 Let's Connect!
 I'm always open to interesting conversations about tech, programming, and new opportunities. Feel free to reach out!
