@@ -16,7 +16,7 @@ Hi there! I'm Nirvesh Bhagirath, a dedicated and enthusiastic data science stude
 - Python, SQL, C.
 
 ## 📫 How to Reach Me
-- Email: nirvesh.bhagirath@example.com
+- Email: vesh440@gmail.com
 - LinkedIn: [Nirvesh Bhagirath](https://www.linkedin.com/in/your-profile)
 
 ## 📈 GitHub Stats
