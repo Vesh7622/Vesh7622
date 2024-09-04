@@ -23,7 +23,8 @@ Hi there! I'm Nirvesh Bhagirath, a dedicated and enthusiastic data science stude
 ![Nirvesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vesh7622&show_icons=true&theme=radical)
 
 ## 👀 Profile Views
-![Profile Views](https://gpvc.arturio.dev/Vesh7622)
+![Profile Views](https://gpvc.arturio.dev/nirveshbhagirath)
+
 
 
 ## 💬 Let's Connect!
